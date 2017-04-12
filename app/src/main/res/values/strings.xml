@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Translator</string>
+    <string name="naver_client_id">pcOEwtCAJe4AVzcWJ_Nh</string>
+    <string name="naver_client_secret">6LtJBOpgvB</string>
+</resources>

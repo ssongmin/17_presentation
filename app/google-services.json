@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "775545295849",
+    "firebase_url": "https://freecommunity-3306b.firebaseio.com",
+    "project_id": "freecommunity-3306b",
+    "storage_bucket": "freecommunity-3306b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775545295849:android:5a3a049edac2b205",
+        "android_client_info": {
+          "package_name": "com.songmin.freecommunity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775545295849-n3d54mfdj278si37s3e0rvt2r9p8ceqr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.songmin.freecommunity",
+            "certificate_hash": "d67a75b97ea33191201e49785f2a82c7cd3e0ebd"
+          }
+        },
+        {
+          "client_id": "775545295849-kkglqip1qkgt06evdvn4bj2rpshfdin7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUv6IgpZHvMmXDoRnQ1NfjQsmBpc7mEoQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775545295849-kkglqip1qkgt06evdvn4bj2rpshfdin7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
